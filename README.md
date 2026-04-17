@@ -34,7 +34,13 @@ My core strengths include **data modeling**, **ETL pipeline development**, **KPI
 I combine a structured analytical approach with strong business understanding to deliver insights aligned with organizational goals.
 
 ---
+## 📚 Currently Learning
 
+- 🎓 **GCI World 2026 – University of Tokyo**
+- 🧠 Data Science & AI Foundations
+- 🐍 Python, NumPy, Pandas
+- 🤖 Machine Learning & Practical Analytics
+- 🧩 Business‑Driven Data Science
 ## 🚀 Core Skills & Technologies
 
 ### 💻 Programming & Data
@@ -72,6 +78,11 @@ I combine a structured analytical approach with strong business understanding to
 ---
 
 ## 📁 Featured Projects
+### ✅ GCI World 2026 — AI & Data Science Learning Journey
+Weekly structured learning with Python, NumPy, Pandas, ML, and business use‑cases.  
+Documenting my learning journey from fundamentals to real‑world application.
+
+🔗 https://github.com/asres-analytics/gci-world-2026
 
 ### ✅ Sales Analytics Dashboard (Power BI)
 **ETL → Data Modeling → Interactive Dashboard**  
@@ -85,6 +96,17 @@ Star schema design, joins, indexing, and performance tuning
 
 ---
 
+## 💼 What I Bring to Teams
+
+- Translate business problems into data solutions
+- Build reliable, scalable ETL pipelines
+- Design KPI‑driven dashboards
+- Communicate insights clearly to non‑technical stakeholders
+- Deliver clean, well‑documented analytics solutions
+
+---
+
+
 ## 🌐 Find Me Online
 
 - **Upwork**: [Hire Me](https://www.upwork.com/freelancers/~013847c2b7252ddb3f)
@@ -94,6 +116,15 @@ Star schema design, joins, indexing, and performance tuning
 - **Portfolio**: [Website](https://asres-analytics.github.io/)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asres-analytics&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asres-analytics&theme=tokyonight&hide_border=true" />
+</p>
 
 <h3 align="center">
 🔥 Open to Data Analyst | BI Developer | Tableau | Power BI | SQL Roles
