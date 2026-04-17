@@ -34,13 +34,18 @@ My core strengths include **data modeling**, **ETL pipeline development**, **KPI
 I combine a structured analytical approach with strong business understanding to deliver insights aligned with organizational goals.
 
 ---
-## 📚 Currently Learning
 
-- 🎓 **GCI World 2026 – University of Tokyo**
-- 🧠 Data Science & AI Foundations
-- 🐍 Python, NumPy, Pandas
-- 🤖 Machine Learning & Practical Analytics
-- 🧩 Business‑Driven Data Science
+## 📚 Education & Continuous Learning
+
+- 🎓 **University of the People**  
+  Bachelor of Science (BSc) in Computer Science
+
+- 🎓 **GCI World 2026 – University of Tokyo**  
+  AI & Data Science foundations (Python, NumPy, Pandas, ML, business applications)
+
+- 🧪 **DataCamp**  
+  Tableau Data Visualization, Python, SQL, and Business Intelligence
+--- 
 ## 🚀 Core Skills & Technologies
 
 ### 💻 Programming & Data
