@@ -87,7 +87,7 @@ I combine a structured analytical approach with strong business understanding to
 Weekly structured learning with Python, NumPy, Pandas, ML, and business use‑cases.  
 Documenting my learning journey from fundamentals to real‑world application.
 
-🔗 https://github.com/asres-analytics/gci-world-2026
+[GCI World 2026 — AI & Data Science Learning Journey](https://github.com/asres-analytics/gci-world-2026)
 
 ### ✅ Sales Analytics Dashboard (Power BI)
 **ETL → Data Modeling → Interactive Dashboard**  
