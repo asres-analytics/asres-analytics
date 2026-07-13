@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/@ethioanalyticshub">
   <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="https://www.tiktok.com/@ethiohub">
+<a href="https://www.tiktok.com/@ethioanalyticshub">
   <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
 </div>
