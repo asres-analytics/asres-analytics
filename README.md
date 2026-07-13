@@ -9,20 +9,26 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~013847c2b7252ddb3f?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  <a href="https://asres-analytics.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ethiocodingroom/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@ethioCodingRoom">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
+
+<div align="list">
+
+<a href="https://www.upwork.com/freelancers/~013847c2b7252ddb3f?mp_source=share">
+  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+</a>
+<a href="https://asres-analytics.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/asres-analytics/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.youtube.com/@ethioanalyticshub">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.tiktok.com/@ethiohub">
+  <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+</a>
+</div>
 
 ---
 
@@ -111,15 +117,7 @@ Star schema design, joins, indexing, and performance tuning
 
 ---
 
-
-## 🌐 Find Me Online
-
-- **Upwork**: [Hire Me](https://www.upwork.com/freelancers/~013847c2b7252ddb3f)
-- **DataCamp**: [View Portfolio](https://www.datacamp.com/portfolio/asresgamu)
-- **LinkedIn**: [Connect](https://www.linkedin.com/in/ethiocodingroom/)
-- **Kaggle**: [Profile](https://www.kaggle.com/asresgamu)
-- **Portfolio**: [Website](https://asres-analytics.github.io/)
-
+📍 **Open to freelance, contract, and full-time opportunities.**
 ---
 ## 📊 GitHub Stats
 
