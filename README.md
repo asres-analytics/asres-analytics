@@ -1,134 +1,25 @@
-<h1 align="center">
-  Hi, I'm <span style="color:#0EA5E9;">Asres Gamu Yelia</span> 👋
-</h1>
+# Hi, I'm Asres Gamu Yelia 👋
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=15000&pause=5000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Business+Intelligence+Developer;Transforming+Complex+Data+Into+Strategic+Business+Decisions;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python;ETL+%7C+Automation+%7C+Analytics+Engineering;Open+To+Data+Analyst+%7C+BI+Developer+Roles"
-    alt="Typing SVG"
-  />
-</p>
+Data Analyst | Business Intelligence Developer | Python & SQL
 
-</p>
+I turn raw data into clear business insights through analysis, dashboards, and automation.
 
-<div align="list">
+## Core Strengths
+- Data cleaning, analysis, and visualization
+- Power BI dashboards and KPI reporting
+- Python and SQL for analytics workflows
 
-<a href="https://www.upwork.com/freelancers/~013847c2b7252ddb3f?mp_source=share">
-  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-</a>
-<a href="https://asres-analytics.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/asres-analytics/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.youtube.com/@ethioanalyticshub">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://www.tiktok.com/@ethioanalyticshub">
-  <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-</a>
-</div>
+## Featured Projects
+- [Power BI Global Superstore Dashboard](https://github.com/asres-analytics/powerbi-superstore-sales-dashboard)
+- [Google Data Analytics Cyclistic Capstone](https://github.com/asres-analytics/google-data-analytics-capstone-cyclistic)
+- [CRM Power BI Dashboard](https://github.com/asres-analytics/crm-powerbi-dashboard)
 
----
+## Portfolio
+- [Website](https://asres-analytics.github.io)
+- [LinkedIn](https://www.linkedin.com/in/asres-analytics)
+- [YouTube](https://www.youtube.com/@ethioanalyticshub)
 
-## 👨‍💼 About Me
+## Tools
+Python • SQL • Power BI • Tableau • Excel • Git & GitHub
 
-I am a **Data Analyst and Business Intelligence Developer** specializing in transforming complex datasets into actionable insights that support data‑driven decision‑making and improve business performance.
-
-My core strengths include **data modeling**, **ETL pipeline development**, **KPI design**, and the creation of **interactive dashboards**.  
-I combine a structured analytical approach with strong business understanding to deliver insights aligned with organizational goals.
-
----
-
-## 📚 Education & Continuous Learning
-
-- 🎓 **University of the People**  
-  Bachelor of Science (BSc) in Computer Science
-
-- 🎓 **GCI World 2026 – University of Tokyo**  
-  AI & Data Science foundations (Python, NumPy, Pandas, ML, business applications)
-
-- 🧪 **DataCamp**  
-  Tableau Data Visualization, Python, SQL, and Business Intelligence
---- 
-## 🚀 Core Skills & Technologies
-
-### 💻 Programming & Data
-- 🐍 **Python** (Pandas, NumPy)
-- 🗄️ **SQL** (PostgreSQL, MySQL)
-- 📊 Statistical Analysis & Data Exploration
-
-### 🌐 Data Analytics
-- 🧹 Data Cleaning & Validation
-- 📈 Data Accuracy & De‑duplication
-- 🔍 Public & Open Data Research
-
-### 📊 Business Intelligence
-- **Power BI** (DAX, Data Modeling, Dashboards)
-- **Tableau** (Calculated Fields, Storytelling)
-- KPI Design & Performance Monitoring
-
-### ⚙️ Data Engineering & ETL
-- ETL / ELT Pipelines
-- Automation & Scheduling
-- Data Quality Monitoring
-
----
-
-## 🛠️ Tools & Environment
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-</p>
-
----
-
-## 📁 Featured Projects
-### ✅ GCI World 2026 — AI & Data Science Learning Journey
-Weekly structured learning with Python, NumPy, Pandas, ML, and business use‑cases.  
-Documenting my learning journey from fundamentals to real‑world application.
-
-[GCI World 2026 — AI & Data Science Learning Journey](https://github.com/asres-analytics/gci-world-2026)
-
-### ✅ Sales Analytics Dashboard (Power BI)
-**ETL → Data Modeling → Interactive Dashboard**  
-🔗 https://github.com/asres-analytics/sql-sales-analysis
-
-### ✅ Customer Segmentation (Python)
-Clustering, EDA, and visualization techniques
-
-### ✅ SQL Data Warehouse Project
-Star schema design, joins, indexing, and performance tuning
-
----
-
-## 💼 What I Bring to Teams
-
-- Translate business problems into data solutions
-- Build reliable, scalable ETL pipelines
-- Design KPI‑driven dashboards
-- Communicate insights clearly to non‑technical stakeholders
-- Deliver clean, well‑documented analytics solutions
-
----
-
-📍 **Open to freelance, contract, and full-time opportunities.**
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asres-analytics&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asres-analytics&theme=tokyonight&hide_border=true" />
-</p>
-
-<h3 align="center">
-🔥 Open to Data Analyst | BI Developer | Tableau | Power BI | SQL Roles
-</h3>
+Open to Data Analyst, BI Analyst, and Reporting Analyst roles.
