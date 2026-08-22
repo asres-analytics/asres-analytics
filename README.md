@@ -1,4 +1,4 @@
-# Asres Gamu Yelia — Data Analyst & BI Developer
+# Asres Gamu Yelia  Data Analyst & BI Developer
 
 I build decision-ready analytics solutions that turn raw data into clear, actionable business insight.
 
